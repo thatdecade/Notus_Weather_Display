@@ -49,6 +49,6 @@ Todo:
 - Elavated forcast, reads tonight and tomorrow, displays worse of the two
 - Demo Mode (TSTORM while cycles through temperture colors)
 - Party Mode (Fog with sound reactive lightning, black alt color)
-  - Set weather API key
+- Set weather API key from Web Portal
 - Sound Sensitive wake-up from display off
 - Convert lighting effects to not use delays
