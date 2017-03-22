@@ -14,6 +14,12 @@ Basic Hardware List (misc circuits not listed)
 - NeoPixel Ring, cool white
 - 2 liter bottles (creates lower basin and tornado chamber)
 
+Libraries:
+- [Arduino core for ESP8266 WiFi chip](https://github.com/esp8266/Arduino)
+- [ESP8266 Connect To WiFi](https://github.com/kentaylor/WiFiManager)
+- [ESP8266 Weather Station](https://github.com/squix78/esp8266-weather-station)
+- [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
+
 Video Demo: https://www.facebook.com/westabyd/videos/776901591346/
 
 You must change the wunderground API key, WUNDERGRROUND_API_KEY, to your own number.
