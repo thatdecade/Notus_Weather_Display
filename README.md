@@ -6,7 +6,7 @@ http://www.seeed.cc/%5BActivity%5D-Best-Wio-Project-Idea-Contest-t-5486.html
 
 This project is losely based on [opentempescope](https://github.com/kenkawakenkenke/tempescope) which uses bluetooth and a smartphone app to get weather updates.  [Hardware build](https://github.com/kenkawakenkenke/tempescope/wiki/1.-Building-OpenTempescope) instructions are similar, but I wrote my software from scratch to run on a ESP8266 controller. 
 
-Basic Hardware List (misc circuits not listed)
+Basic Hardware List (misc circuits not listed) 
 - ESP8266
 - Water Pump
 - Water Ultrasonic Atomizer (humidifier)
